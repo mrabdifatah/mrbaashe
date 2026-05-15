@@ -37,7 +37,7 @@ const projects = [
         title: "Hotel MS",
         description: "A streamlined hospitality management platform focusing on secure booking flows and MVC architecture.",
         tech: ["Laravel", "PHP", "JS", "Tailwind"],
-        link: "#",
+        link: "https://bashehotel.netlify.app/",
         repo: "#",
         images: ["./Images/HotelMS.JPG"]
     },
