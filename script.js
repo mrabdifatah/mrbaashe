@@ -5,16 +5,16 @@ const projects = [
         title: "Soltelco Project",
         description: "A high-performance full-stack ecosystem integrating multiple backend environments for maximum scalability.",
         tech: ["Django", "React", "Node.js", "Tailwind"],
-        link: "https://abaarso-school.netlify.app/",
-        repo: "https://github.com/mrabdifatah/School-MS",
+        link: "",
+        repo: "",
         images: ["./Images/Soltelco.JPG"]
     },
     {
         title: "School MS",
         description: "An enterprise-level system designed for robust data management and academic administration.",
         tech: ["ASP.NET Core", "C#", "SQL", "Tailwind"],
-        link: "#",
-        repo: "#",
+        link: "https://abaarso-school.netlify.app/",
+        repo: "https://github.com/mrabdifatah/School-MS",
         images: ["./Images/SchoolMS.JPG"]
     },
     {
