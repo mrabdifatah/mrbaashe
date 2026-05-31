@@ -5,8 +5,8 @@ const projects = [
         title: "Soltelco Project",
         description: "A high-performance full-stack ecosystem integrating multiple backend environments for maximum scalability.",
         tech: ["Django", "React", "Node.js", "Tailwind"],
-        link: "#",
-        repo: "#",
+        link: "https://abaarso-school.netlify.app/",
+        repo: "https://github.com/mrabdifatah/School-MS",
         images: ["./Images/Soltelco.JPG"]
     },
     {
